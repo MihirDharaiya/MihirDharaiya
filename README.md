@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [BarterBank.com](https://github.com/aryan-michael/BarterBank)
 
-- 🌱 I’m currently learning **NodeJS, ExpressJS & MongoDB along with TypeScript**
+- 🌱 I’m currently learning **R, SQL & Tableau**
 
 - 👯 I’m looking to collaborate on **any data analytics related project**
 
