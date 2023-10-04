@@ -2,8 +2,6 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 
-- 🔭 I’m currently working on [BarterBank.com](https://github.com/aryan-michael/BarterBank)
-
 - 🌱 I’m currently learning **R, SQL & Tableau**
 
 - 👯 I’m looking to collaborate on **any data analytics related project**
