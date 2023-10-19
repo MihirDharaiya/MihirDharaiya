@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihir Devesh Dharaiya</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">An aspiring Data Analyst</h3>
 
 
 - 🌱 I’m currently learning **R, SQL & Tableau**
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MihirDharaiya](https://github.com/MihirDharaiya)
 
-- 💬 Ask me about **react, react-native, flutter, data cleaning, data visualization, data engineering**
+- 💬 Ask me about **data cleaning, data visualization, data engineering, python, R, tableau, power BI**
 
 - 📫 How to reach me **mdharaiya800@gmail.com**
 
